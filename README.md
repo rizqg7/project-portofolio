@@ -1,2 +1,2 @@
 # project-portofolio
-project sampingan dari belajar ngoding  
+personal portofolio
